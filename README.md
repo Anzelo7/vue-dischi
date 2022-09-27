@@ -1,4 +1,4 @@
-# vue-cli-ricky-and-morty
+# vue-dischi
 
 ## Project setup
 ```
